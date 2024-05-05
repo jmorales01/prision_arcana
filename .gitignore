@@ -1,0 +1,35 @@
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop specific
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+.vscode/
+
+# Gradle / Android Studio specific
+.gradle/
+.idea/
+/build/
+/captures/
+
+# macOS specific files
+.DS_Store
+*.DS_Store
+
+# Xcode specific files
+*.xcuserstate
+
+# Unity log files
+*.log
