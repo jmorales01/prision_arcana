@@ -16,7 +16,14 @@
 
 ## Resources
 
+### Programs
 ![Unity 2023](https://img.shields.io/badge/Unity-2023.2.19f1-green)
+
+### Colors
+`#00AC1D`   Buttons Baground
+`#00A81B`   Buttons Baground -> presed and selected
+`#FFFF`     Fonts Color
+
 
 
 ## Images
