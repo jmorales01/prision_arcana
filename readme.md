@@ -10,11 +10,7 @@
 - **Movimiento:**
   - <kbd>←</kbd>: Moverse hacia la izquierda.
   - <kbd>→</kbd>: Moverse hacia la derecha.
-
-- **Saltar:**
   - <kbd>Tecla "TAB"</kbd>: Saltar.
-
-- **Agacharse:**
   - <kbd>Tecla "CTRL"</kbd>: Agacharse.
 
 
@@ -25,6 +21,9 @@
 
 ## Images
 
-![](https://github.com/jmorales01/RobbiePlatformer_Project/blob/master/images/dev-player.png)
+![](https://github.com/jmorales01/prision_arcana/blob/master/images/start_player.png)
+> Imagen de inicion del juego.
+
+![](https://github.com/jmorales01/prision_arcana/blob/master/images/dev-player.png)
 
 > Primer avance del juego realizado en unity.
