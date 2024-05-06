@@ -2,7 +2,7 @@
 
 #### Project created from this youtube channel
 
-`<link> from YouTube`
+`links from YouTube`
 > "Juego en generar y movimientos", [Link](https://www.youtube.com/@academiadevideojuegos)。
 > "Menu de opciones", [Link](https://youtube.com/playlist?list=PLTUZMVrECom3Qkk7BoMNCjBiBpZ1VJgcV&si=6bsuNRZNdh0BF2_8)。
 
