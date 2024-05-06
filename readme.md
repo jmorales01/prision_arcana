@@ -2,7 +2,9 @@
 
 #### Project created from this youtube channel
 
-`<link>` : <https://www.youtube.com/@academiadevideojuegos>
+`<link> from YouTube`
+> "Juego en generar y movimientos", [Link](https://www.youtube.com/@academiadevideojuegos)。
+> "Menu de opciones", [Link](https://youtube.com/playlist?list=PLTUZMVrECom3Qkk7BoMNCjBiBpZ1VJgcV&si=6bsuNRZNdh0BF2_8)。
 
 
 ## Controller
@@ -20,15 +22,15 @@
 ![Unity 2023](https://img.shields.io/badge/Unity-2023.2.19f1-green)
 
 ### Colors
-`#00AC1D`   Buttons Baground
-`#00A81B`   Buttons Baground -> presed and selected
-`#FFFF`     Fonts Color
+`#00AC1D`   Buttons Baground.
+`#00A81B`   Buttons Baground -> presed and selected.
+`#FFFF`     Fonts Color.
 
 
 
 ## Images
 
-![](https://github.com/jmorales01/prision_arcana/blob/master/images/start_player.png)
+![Start](https://github.com/jmorales01/prision_arcana/blob/master/images/start_player.png) ![Menu](https://github.com/jmorales01/prision_arcana/blob/master/images/Menu_player.png)
 > Imagen de inicion del juego.
 
 ![](https://github.com/jmorales01/prision_arcana/blob/master/images/dev-player.png)
